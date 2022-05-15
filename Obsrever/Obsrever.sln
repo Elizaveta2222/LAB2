@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obsrever", "Obsrever\Obsrever.csproj", "{6409F7B1-7D4A-4F1F-A783-DCC5D41E2CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestObserver", "TestObserver\TestObserver.csproj", "{043B31F3-6676-492A-BD1C-2077593104B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6409F7B1-7D4A-4F1F-A783-DCC5D41E2CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6409F7B1-7D4A-4F1F-A783-DCC5D41E2CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6409F7B1-7D4A-4F1F-A783-DCC5D41E2CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6409F7B1-7D4A-4F1F-A783-DCC5D41E2CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043B31F3-6676-492A-BD1C-2077593104B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043B31F3-6676-492A-BD1C-2077593104B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043B31F3-6676-492A-BD1C-2077593104B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043B31F3-6676-492A-BD1C-2077593104B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AE1221-DA2E-4E69-981B-CC9BD63D1C5E}
+	EndGlobalSection
+EndGlobal
