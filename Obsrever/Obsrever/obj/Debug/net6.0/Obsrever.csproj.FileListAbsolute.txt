@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\bin\Debug\net6.0\Obsrever.exe
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\bin\Debug\net6.0\Obsrever.deps.json
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\bin\Debug\net6.0\Obsrever.runtimeconfig.json
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\bin\Debug\net6.0\Obsrever.dll
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\bin\Debug\net6.0\Obsrever.pdb
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.dll
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\refint\Obsrever.dll
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.pdb
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\Obsrever.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\Obsrever\Obsrever\obj\Debug\net6.0\ref\Obsrever.dll
