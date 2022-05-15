@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\bin\Debug\net6.0\PatternStrategy.exe
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\bin\Debug\net6.0\PatternStrategy.deps.json
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\bin\Debug\net6.0\PatternStrategy.runtimeconfig.json
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\bin\Debug\net6.0\PatternStrategy.dll
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\bin\Debug\net6.0\PatternStrategy.pdb
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.dll
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\refint\PatternStrategy.dll
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.pdb
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\PatternStrategy.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\PatternStrategy\PatternStrategy\obj\Debug\net6.0\ref\PatternStrategy.dll
